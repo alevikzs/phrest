@@ -1,5 +1,19 @@
 #PhRest#
 
+##About##
+
+PHP framework for building json rest api applications based on [Phalcon](https://phalconphp.com).
+
+##Requirements##
+
+* PHP >= 5.4 && < 7.0;
+* Phalcon >= 2.0.
+
+##Installation##
+
+1. Require the package and its dependencies with composer: ```$ composer require alevikzs/phrest:dev-master```
+2. Install Phalcon framework. Detail guide is [here](https://phalconphp.com/download).
+
 ##The MIT License (MIT)##
 
 **Copyright (c) 2016 Alexey Novikov <alekseeey@gmail.com>**

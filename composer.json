@@ -1,10 +1,16 @@
 {
+  "name": "alevikzs/phrest",
+  "description": "PHP framework for building json rest api applications based on Phalcon",
+  "keywords": ["framework", "phalcon", "rest api", "json rest api"],
+  "type": "framework",
+  "license": "MIT",
   "authors": [
     {
       "name": "Alexey Novikov",
       "email": "alekseeey@gmail.com"
     }
   ],
+  "minimum-stability": "stable",
   "require": {
     "php": ">=5.4",
     "guzzlehttp/guzzle": "~5.0",

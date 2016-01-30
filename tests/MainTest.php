@@ -1,11 +1,11 @@
 <?php
 
-namespace Rise\Tests\Api;
+namespace Tests;
 
 /**
- * Class MissingTest
- * @package Rise\Tests\Api
+ * Class MainTest
+ * @package Tests
  */
-class MissingTest extends \PHPUnit_Framework_TestCase {
+class MainTest extends \PHPUnit_Framework_TestCase {
 
 }
