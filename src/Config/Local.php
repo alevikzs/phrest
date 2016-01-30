@@ -99,7 +99,8 @@ class Local {
      * @return string
      */
     private static function getPath() {
-        return dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'config' . DIRECTORY_SEPARATOR . 'local.json';
+        return getcwd() . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . 'config' . DIRECTORY_SEPARATOR
+            . 'local.json';
     }
 
 }
