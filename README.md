@@ -12,7 +12,7 @@ PHP framework for building json rest api applications based on [Phalcon](https:/
 ##Installation##
 
 1. Require the package and its dependencies with composer: ```$ composer require alevikzs/phrest:dev-master```
-2. Install Phalcon framework. Detail guide is [here](https://phalconphp.com/download).
+2. Install [Phalcon framework](https://phalconphp.com). Detail guide is [here](https://phalconphp.com/download).
 
 ##The MIT License (MIT)##
 
